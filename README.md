@@ -1,5 +1,5 @@
-### Hi there 👋
-![me](https://res.cloudinary.com/da76mkk4h/image/upload/v1658256726/cld-sample-5.jpg)
+### Hi, I'm Alberto Andres 👋😄
+![me](https://res.cloudinary.com/da76mkk4h/image/upload/v1660691383/Captura_honwjx.png)
 <!--
 **andresDiazLugo/andresdiazlugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
