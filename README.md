@@ -14,7 +14,10 @@
 - 🧠 FrontEnd: JavaScript, React, Redux, HTML5, CSS3
 - 🧠 BackEnd: NodeJS, expressJS
 - 🧠 Base de datos: mySql, PostgreSQL
-
+<h3 align="left">Contacta conmigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alberto-diaz-lugo-91b0a0239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<andres-Alberto-full-stack" height="30" width="40" /></a>
+</p>
 
 
 <!--
