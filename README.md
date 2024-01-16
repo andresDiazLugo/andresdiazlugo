@@ -3,8 +3,6 @@
 
 <h2 align="center">Full Stack Developer 😁</h2>
 <h4 >Me gradue como Técnico Analista de Sistemas por 2019, en el cual adquiri conocimientos de gestión de proyectos TI como asi tambien aprendí el lenguaje de Delphi y diseño y desarrollo de Base de Datos, gracias a esta carrera pude encontrar lo que tanto me apasiona.</h4>
-<h4>Actualmente me gradúe en el Bootcamp de Soy Henry como Full Stack Developer 🧑‍🎓, en el cual pase mas de 700hs en codigo.</h4>
-
 - Estoy interesado en todo lo relacionado al desarrollo web.
 
 
